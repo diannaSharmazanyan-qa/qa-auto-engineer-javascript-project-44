@@ -27,4 +27,4 @@ brain-even
 Пользователю показывается случайное число. Ему нужно ответить yes, если число чётное, или no — если нечётное.
 ### Запуск игры: __"brain-even"__
 
-<script src="https://asciinema.org/a/yVBLwyBcW29Z5DzvnMqKVhgCE.js" id="asciicast-yVBLwyBcW29Z5DzvnMqKVhgCE" async="true"></script>
+[![asciicast](https://asciinema.org/a/yVBLwyBcW29Z5DzvnMqKVhgCE.svg)](https://asciinema.org/a/yVBLwyBcW29Z5DzvnMqKVhgCE)
