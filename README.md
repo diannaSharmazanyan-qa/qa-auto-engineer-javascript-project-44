@@ -37,6 +37,11 @@ brain-gcd
 ```
 brain-progression
 ```
+запускает игру "Простое ли число?"
+
+```
+brain-prime
+```
 
 ## Игра: "Проверка на четность"
 ### Описание игры:
@@ -62,3 +67,9 @@ brain-progression
 Пользователю показывается ряд чисел, образующий арифметическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это число.
 ### Запуск игры: __"brain-progression"__
 [![asciicast](https://asciinema.org/a/Re5oBGOQafzoy2moOYGFpkVLG.svg)](https://asciinema.org/a/Re5oBGOQafzoy2moOYGFpkVLG)
+
+## Игра: "Простое ли число?"
+### Описание игры:
+Пользователю показывается случайное число. И ему нужно ответить yes, если число простое, или no — если не простое.
+### Запуск игры: __"brain-prime"__
+[![asciicast](https://asciinema.org/a/9bd09zIDHOw9BmbJCybYtKK0T.svg)](https://asciinema.org/a/9bd09zIDHOw9BmbJCybYtKK0T)
