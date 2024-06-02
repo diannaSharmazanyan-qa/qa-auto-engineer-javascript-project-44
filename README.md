@@ -1,3 +1,4 @@
+# Проект "Игры разума":
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/diannaSharmazanyan-qa/qa-auto-engineer-javascript-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/diannaSharmazanyan-qa/qa-auto-engineer-javascript-project-44/actions)
 <a href="https://codeclimate.com/github/diannaSharmazanyan-qa/qa-auto-engineer-javascript-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/fb35b5c92e3ec9264ade/maintainability" /></a>
@@ -21,6 +22,11 @@ npm link
 ```
 brain-even
 ```
+запускает игру "Калькулятор"
+
+```
+brain-calc
+```
 
 ## Игра: "Проверка на четность"
 ### Описание игры:
@@ -28,3 +34,10 @@ brain-even
 ### Запуск игры: __"brain-even"__
 
 [![asciicast](https://asciinema.org/a/yVBLwyBcW29Z5DzvnMqKVhgCE.svg)](https://asciinema.org/a/yVBLwyBcW29Z5DzvnMqKVhgCE)
+
+## Игра: "Калькулятор"
+### Описание игры:
+Пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
+### Запуск игры: __"brain-calc"__
+[![asciicast](https://asciinema.org/a/BM7lLeNkuKJX13smdXeIMQ6Td.svg)](https://asciinema.org/a/BM7lLeNkuKJX13smdXeIMQ6Td)
+
