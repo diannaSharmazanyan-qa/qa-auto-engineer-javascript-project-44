@@ -27,6 +27,12 @@ brain-even
 ```
 brain-calc
 ```
+запускает игру "Наибольший общий делитель"
+
+```
+brain-gcd
+```
+
 
 ## Игра: "Проверка на четность"
 ### Описание игры:
@@ -41,3 +47,8 @@ brain-calc
 ### Запуск игры: __"brain-calc"__
 [![asciicast](https://asciinema.org/a/BM7lLeNkuKJX13smdXeIMQ6Td.svg)](https://asciinema.org/a/BM7lLeNkuKJX13smdXeIMQ6Td)
 
+## Игра: "НОД"
+### Описание игры:
+Пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
+### Запуск игры: __"brain-gcd"__
+[![asciicast](https://asciinema.org/a/ImsuleEpFK4w6lhSJiusN4H8l.svg)](https://asciinema.org/a/ImsuleEpFK4w6lhSJiusN4H8l)
